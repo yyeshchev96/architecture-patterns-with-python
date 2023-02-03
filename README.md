@@ -1,5 +1,16 @@
 # Example application code for the python architecture book
 
+## About Book
+
+With this hands-on guide, Harry Percival and Bob Gregory from MADE.com introduce proven architectural design patterns to help Python developers manage application complexity — and get the most value out of their test suites.
+
+### Where to get one:
+
+- O`Reilly: https://www.oreilly.com/library/view/architecture-patterns-with/9781492052197/
+- Read online: https://www.cosmicpython.com/
+
+---
+
 ## Chapters
 
 Each chapter has its own branch which contains all the commits for that chapter,
